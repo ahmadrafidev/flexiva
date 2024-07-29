@@ -1,8 +1,8 @@
-# Flexiva: Your Flexible Financial Companion 📱💰
+# Flexive: Your Flexible Financial Companion 📱💰
 
 Flexiva is a cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health. Built with [Expo](https://expo.dev) and [React Native](https://reactnative.dev), Flexiva offers a seamless experience on both Android and iOS devices.
 
-## Why You’ll Love Flexiva ❤️
+## Why You’ll Love Flexive ❤️
 
 - **Forever Free, Always Open:** No hidden fees, no annoying ads. Just pure financial empowerment.
 - **Designed for Delight:** With a sleek, intuitive interface, managing your finances feels like a breeze.
