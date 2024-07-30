@@ -1,6 +1,6 @@
 # Flexive: Your Flexible Financial Companion 📱💰
 
-Flexive is a cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health. Built with [Expo](https://expo.dev) and [React Native](https://reactnative.dev), Flexive offers a seamless experience on both Android and iOS devices.
+Flexive is a cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health. Built with [Expo](https://expo.dev) and [React Native](https://reactnative.dev), Flexive offers a seamless experience on both Android and iOS devices.Flexive aims to be the ultimate app for seamless and flexible financial tracking, empowering your financial journey with ease.
 
 ## Why You’ll Love Flexive ❤️
 
